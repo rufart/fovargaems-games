@@ -1,0 +1,59 @@
+body {
+    font-family: bahnschrift Arial, Helvetica, sans-serif;
+    background-image: url(fon5.jpeg) ;
+    color:white;
+    margin-left: 38%;
+    margin-right: 38;
+    margin-top:10% ;
+}
+h1 {
+    font-size: 100.3;
+    font-family: agency FB;
+    margin-top: 35%;
+    margin-left: 0.5%;
+}
+summary {
+    font-size: 30px;
+    font-family: arial rounded MT;
+    margin-left: 15%;
+    margin-top: 32%;
+}
+.box {
+    font-size: 28px;
+    margin-right: 35%;
+    margin-top: 40%;
+}
+.box2 {
+    font-size: 28px;
+    margin-top: 40%;       
+}
+
+h3 {
+    font-size: 20px;
+}
+button {
+    margin-left: 3%;   
+}
+h5 {
+    margin-bottom: 35%;
+    color: black;
+}
+h6 {
+    margin-top: 35%;
+    color: black;
+}
+.dradon_stone {
+    background-color: ;
+}
+footer {
+    font-size: 15px;
+    color:white;
+    margin-left: 12%; 
+}
+a {
+    font-size: 18px;
+    margin-left: 20%;
+    color: white;
+    
+}
+
